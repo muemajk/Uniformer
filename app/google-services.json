@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391868758049",
+    "firebase_url": "https://uniformer-a7a32.firebaseio.com",
+    "project_id": "uniformer-a7a32",
+    "storage_bucket": "uniformer-a7a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391868758049:android:7824fdefcf4ac546",
+        "android_client_info": {
+          "package_name": "com.example.unifromer4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391868758049-k19hlu26skco8ddbsb4e8r304lr3q6qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKh5qVTnq8kOb8XVTfk5bwdaiczvx6HkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391868758049-k19hlu26skco8ddbsb4e8r304lr3q6qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
